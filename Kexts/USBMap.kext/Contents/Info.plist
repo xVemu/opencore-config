@@ -117,7 +117,7 @@
 					<key>SS04</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>
 						EAAAAA==
